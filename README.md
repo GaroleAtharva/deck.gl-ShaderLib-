@@ -1,3 +1,10 @@
+Enhanced Shadow Mapping with PCF (Percentage Closer Filtering)
+This fork of Deck.gl introduces a significant improvement to shadow quality through the integration of Percentage Closer Filtering (PCF) in Shadow Maps. Designed as a modular Layer Extension, this addon seamlessly integrates with existing layers, including composite layers.
+Key Features:
+  Enhanced Shadow Mapping with PCF for reduced aliasing and improved realism
+  Modular design as a Layer Extension for easy integration with existing (link unavailable) applications
+  Compatibility with pre-existing layers and composite layers
+
 <p align="right">
   <a href="https://npmjs.org/package/deck.gl">
     <img src="https://img.shields.io/npm/v/deck.gl.svg?style=flat-square" alt="version" />
